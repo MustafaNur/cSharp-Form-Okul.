@@ -1,0 +1,13 @@
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\bin\Debug\NotKayıt.exe.config
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\bin\Debug\NotKayıt.exe
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\bin\Debug\NotKayıt.pdb
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.Giris.resources
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.OgrenciDetay.resources
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.OgretmenDetay.resources
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.exe
+C:\Users\Mustafa\source\repos\ProjeNotKayıt\NotKayıt\NotKayıt\obj\Debug\NotKayıt.pdb
