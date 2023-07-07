@@ -1,0 +1,16 @@
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.Form1.resources
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.OgrenciNotlar.resources
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.Kulup.resources
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.Ogretmen.resources
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.Dersler.resources
+C:\Users\Mustafa\source\repos\ProjeOkul\OkulProje\OkulProje\obj\Debug\OkulProje.Ogrenci.resources
